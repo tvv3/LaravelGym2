@@ -1,0 +1,13 @@
+/laravel2/node_modules
+/laravel2/public/hot
+/laravel2/public/storage
+/laravel2/storage/*.key
+/laravel2/vendor
+/laravel2/public/imagini
+laravel2/.env
+laravel2/.env.backup
+laravel2/.phpunit.result.cache
+laravel2/Homestead.json
+laravel2/Homestead.yaml
+laravel2/npm-debug.log
+laravel2/yarn-error.log
